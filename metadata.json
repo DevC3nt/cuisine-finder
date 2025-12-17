@@ -1,0 +1,7 @@
+{
+  "name": "FlavorFinder AI",
+  "description": "An AI-powered restaurant discovery and filtering platform for food delivery services, using Gemini to find and summarize the best local dining options.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
